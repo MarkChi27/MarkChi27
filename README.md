@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MarkChi27
-- 👀 I’m interested in software development, data manipulation/analysis, mathematics, and cybersecurity!
-- 🌱 I’m currently studying Computer Science at University of Waterloo
+- :wave: Hi, I’m @MarkChi27
+- :eyes: I’m interested in software development, data manipulation/analysis, mathematics, and cybersecurity!
+- :evergreen_tree: I’m currently studying Computer Science at University of Waterloo
 - :smiley_cat: I’m looking to collaborate on projects that creates value and meet amazing people!
-- 📫 How to reach me: mchi@uwaterloo.ca
-- :soccer: Fun fact, if you also know about soccer, I'm a Chelsea fan. Once a blue, always a blue :)
+- :email: How to reach me: mchi@uwaterloo.ca
+- :soccer: Fun fact: if you also know about soccer, I'm a Chelsea fan. Once a blue, always a blue :)
